@@ -1,0 +1,7 @@
+{
+    "background.customImages": [
+        {"background.enabled" : false}
+    
+    ],
+    "background.useDefault": false
+}
